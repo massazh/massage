@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow:
+Host: massage.neocities.org
+Sitemap: https://massage.neocities.org/sitemap.xml
